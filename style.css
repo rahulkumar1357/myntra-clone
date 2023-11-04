@@ -84,7 +84,14 @@ footer{
     padding: 20px;
 
 }
-
+.mx-1 i{
+    display: block;
+    margin-left: 10px;
+}
+.bag i{
+    display: block;
+    margin-left: 5px;
+}
 
 
 
